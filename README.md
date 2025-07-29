@@ -33,10 +33,9 @@ The reactor uses combustion or decomposition of waste material to generate **hea
 ## 📂 Downloads
 
 - 📄 [Certificate of Publication (PDF)]
-- <img width="2000" height="1414" alt="ISJEM Certificate Shubham Chadda" src="https://github.com/user-attachments/assets/42282288-5e72-4532-968c-08e44d5d3a65" />
+ <img width="2000" height="1414" alt="ISJEM Certificate Shubham Chadda" src="https://github.com/user-attachments/assets/42282288-5e72-4532-968c-08e44d5d3a65" />
 
 - [Prototype Images]
-- 
 ![Peer-reviewed   accepted by ISJEM (Impact Factor 7 839), July 2025](https://github.com/user-attachments/assets/20988413-aef9-4900-a299-4f299f57e912)
 
 ## 🔗 Citation
